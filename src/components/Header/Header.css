@@ -1,0 +1,77 @@
+.header-sup{
+    background-color: #161616;
+    height: 50px;
+    
+}
+
+.teste{
+    background-color: #fff;
+    height: 100px;
+    transition: all ease 0.3s;
+    margin-top: 50px;
+
+}
+
+.ativaCor{
+    background-image: linear-gradient(to right, #FF560D, #FF7704);
+    height: 100px;
+    margin-top: 50px;
+}
+
+
+.header-sup-span{
+    color: #fff;
+    margin: 0 auto;
+
+
+}
+
+.header-sup-destaque{
+    color: #FF7A00;
+    font-weight: bold;
+
+}
+
+.me-auto{
+    margin: 0 auto;
+}
+
+.menu-options{
+    width: 100px;
+    text-align: center;
+    
+    
+}
+.menu-options:hover{
+    background-color: #D1D1D5;
+    border-radius: 5px;
+}
+
+
+.menu-options-2:hover{
+    background-color: #D95D07;
+    border-radius: 5px;
+    color: #fff;
+}
+
+
+.vertical-line{
+    margin-right: 50px;
+    height: 40px;
+    border-left: 1px dashed black;
+
+}
+
+Button{
+    height: 50px;
+    width: 120px;
+
+}
+
+
+.btn-github{
+    background-color: blue;
+
+    
+
+}
